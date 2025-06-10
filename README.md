@@ -40,12 +40,21 @@ This hands-on lab simulates common admin tasks performed by IT support and cloud
 
 ## 📷 Screenshots
 
-All tasks were documented with detailed screenshots showing:
-- Portal navigation steps
-- PowerShell command usage
-- Confirmation dialogs and user role views
-
-> 📄 See the [PDF version](Managing_Identities_in_Microsoft_Entra_ID.pdf) for full visual documentation.
+## 📸 Screenshots
+![Image](Screenshot1.png)
+![Image](Screenshot2.png)
+![Image](Screenshot3.png)
+![Image](Screenshot4.png)
+![Image](Screenshot5.png)
+![Image](Screenshot6.png)
+![Image](Screenshot7.png)
+![Image](Screenshot8.png)
+![Image](Screenshot9.png)
+![Image](Screenshot10.png)
+![Image](Screenshot11.png)
+![Image](Screenshot12.png)
+![Image](Screenshot13.png)
+![Image](Screenshot14.png)
 
 ---
 
@@ -71,7 +80,7 @@ This project aligns with real-world scenarios in:
 
 ## 🔗 Author
 
-**Dhanuka Sooriyaarachchi**  
+**Dhanuka**  
 📍 Melbourne, Australia  
 🎓 Master's in Cybersecurity  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
